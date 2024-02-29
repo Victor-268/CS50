@@ -1,0 +1,11 @@
+sort1 uses: bubblesort
+
+How do you know?: Slowest algorithm
+
+sort2 uses: mergesort
+
+How do you know?: Its fastest for random50000
+
+sort3 uses: selectionsort
+
+How do you know?: Its faster when using reversed50000
