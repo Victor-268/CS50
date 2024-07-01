@@ -1,0 +1,3 @@
+1. The top genre listened to
+
+2. I would cluster the top 100 by genre, and take the average of those clusters 
